@@ -1,0 +1,6 @@
+{
+    "port": "/dev/cu.wchusbserial1420",
+    "board": "arduino:avr:nano",
+    "sketch": "Alcoholmeter-Nano-MQ3-Oled/Alcoholmeter-Nano-MQ3-Oled.ino",
+    "configuration": "cpu=atmega328"
+}
